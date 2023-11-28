@@ -3,6 +3,8 @@ A feedback collection application for startup and product owners to collect feed
 
 #### Application Flow
 
+User = Startup or product owner using this service.
+
 1. User signs up via Google OAuth.
 2. User pays for email credits via stripe.
 3. User creates a new "campaign".
